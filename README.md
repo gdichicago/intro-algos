@@ -1,4 +1,5 @@
-gdi-boulder-intermediate-htmlcss
+Girl Develop It Chicago
 ================================
 
-Intermediate HTML/CSS &amp; Intro to Responsive Design
+Intro to Algorithms
+Material originally developed by Pamela Fox for GDI San Francisco
